@@ -122,19 +122,99 @@ class RohitMedpalli:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-medpalli123&theme=react&hide_border=true" alt="GitHub Streak" />
 </div>
 
+
+---
+
+## 🌐 Visit My Website
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-medpalli123&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  
+[![TestCraft Portfolio](https://img.shields.io/badge/🚀%20TestCraft%20Portfolio-Visit%20Site-brightgreen?style=for-the-badge&logo=firefox)](https://testcraftrohit.netlify.app/)
+
+*🔧 Comprehensive testing portfolio showcasing automation frameworks, test strategies, and quality engineering projects*
+
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Featured Automation Frameworks
 
 <div align="center">
-  
-[![TestCraft Portfolio](https://img.shields.io/badge/🚀%20TestCraft%20Portfolio-Visit%20Site-brightgreen?style=for-the-badge)](https://testcraftrohit.netlify.app/)
 
-*🔧 Comprehensive testing portfolio showcasing automation frameworks, test strategies, and quality engineering projects*
+### 🎭 UI Test Automation Framework
+[![Playwright Framework](https://img.shields.io/badge/🎭%20WebPlaywright%20Framework-View%20Code-2EAD33?style=for-the-badge&logo=github)](https://github.com/Rohit-Medpalli123/WebPlaywrightFramework)
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+**🚀 Key Features:**
+- 🎯 **Page Object Model (POM)** pattern implementation
+- 🌐 **Cross-browser testing** (Chromium, Firefox, WebKit)
+- ⚡ **Parallel test execution** for faster feedback
+- 🔧 **Modular design** for better reusability
+- 📊 **Comprehensive reporting** and logging
+
+</td>
+<td width="50%">
+
+**💡 Technical Stack:**
+- **Playwright** - Modern browser automation
+- **Python** - Core programming language
+- **pytest** - Testing framework
+- **Page Factory** - Object creation pattern
+- **Async/Await** - Modern Python patterns
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🔗 API Test Automation Framework
+[![API Framework](https://img.shields.io/badge/🔗%20API%20Framework-View%20Code-FF6B35?style=for-the-badge&logo=github)](https://github.com/Rohit-Medpalli123/ApiFramework)
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+**🚀 Key Features:**
+- ⚡ **Async API testing** with asyncio support
+- 🔄 **Smart retry mechanisms** for flaky tests
+- 🎛️ **Dynamic test configurations** 
+- 📈 **Scalable architecture** for large test suites
+- 🛡️ **Comprehensive error handling**
+
+</td>
+<td width="50%">
+
+**💡 Technical Stack:**
+- **pytest** - Advanced testing framework
+- **requests** - HTTP library for API calls
+- **asyncio** - Asynchronous programming
+- **JSON Schema** - Response validation
+- **Custom Utilities** - Enhanced functionality
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🎯 Framework Highlights
+
+| Feature | UI Framework | API Framework |
+|---------|-------------|---------------|
+| **Pattern** | Page Object Model | Request/Response Model |
+| **Execution** | Parallel Cross-browser | Async Multi-threaded |
+| **Reporting** | HTML + Screenshots | JSON + Logs |
+| **Maintenance** | High Reusability | Dynamic Configuration |
 
 </div>
 
